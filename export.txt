@@ -1,0 +1,3 @@
+Nome|George;Peso Corporal|103,00;Altura|1,72;IMC|34,82;Interpretação|obesidade
+Nome|Khaua;Peso Corporal|1,23;Altura|23,00;IMC|0,00;Interpretação|baixo peso
+Nome|Antonio;Peso Corporal|33,00;Altura|1,79;IMC|10,30;Interpretação|baixo peso
